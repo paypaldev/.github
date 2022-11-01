@@ -1,3 +1,4 @@
+![PayPal Developer Cover](../pp-cover.png)
 <div align="center">
   <h1>PayPal Developer</h1>
   <a href="https://twitter.com/paypaldev" target="_blank">
