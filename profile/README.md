@@ -1,6 +1,5 @@
-![PayPal Developer Cover](../pp-cover.png)
+![PayPal Developer Cover](https://github.com/paypaldev/.github/blob/main/pp-cover.png)
 <div align="center">
-  <h1>PayPal Developer</h1>
   <a href="https://twitter.com/paypaldev" target="_blank">
     <img alt="Twitter: PayPal Developer" src="https://img.shields.io/twitter/follow/paypaldev?style=social" />
   </a>
@@ -26,7 +25,7 @@ At PayPal, we support different technologies trough our SDKs and our REST  & Gra
 
 # 🖥️ Sample Apps
 
-PayPal provides code repositories through two GitHub Organizations:
+PayPal provides code repositories in two GitHub Organizations:
 
 - Official PayPal SDKs are available through [PayPal GitHub](https://github.com/paypal) organization.
 
@@ -34,7 +33,7 @@ PayPal provides code repositories through two GitHub Organizations:
 
 # 🤠 Developer Community
 
-Get in touch with us or learn more about OneSignal through the channels below.
+Get in touch with us or learn more about PayPal through the channels below.
 
 - [Follow us on Twitter](https://twitter.com/paypaldevs).
 - [PayPal Blog](https://dev.to/paypaldeveloper).
