@@ -25,20 +25,18 @@ At PayPal, we support different technologies trough our SDKs and our REST  & Gra
 
 # 🖥️ Sample Apps
 
-PayPal provides code repositories in two GitHub Organizations:
+- The PayPal SDKs can be found in the [PayPal GitHub](https://github.com/paypal) organization.
 
-- Official PayPal SDKs are available through [PayPal GitHub](https://github.com/paypal) organization.
-
-- Sample Applications are available through the [PayPal Developer GitHub](https://github.com/paypaldev) organization.
+- Sample applications can be found here, in the [PayPal Developer GitHub](https://github.com/paypaldev) organization.
 
 # 🤠 Developer Community
 
-Get in touch with us or learn more about PayPal through the channels below.
+Join our developoer community and stay up to date with the latest news from the PayPal team!
 
 - [Follow us on Twitter](https://twitter.com/paypaldevs).
 - [PayPal Blog](https://dev.to/paypaldeveloper).
 - [Subscribe to our on YouTube Channel](https://www.youtube.com/channel/UCvNxReTAQudFN4RQth9r_6A/videos).
 
-# 💼 Careers
+# 💼 Careers (We are hiring!)
 
 We believe now is the time to reimagine money and democratize financial services, so that managing and moving money is safe and accessible for everyone. Want to learn more? Visit [PayPal Careers](https://careers.pypl.com/home/) to learn more.
