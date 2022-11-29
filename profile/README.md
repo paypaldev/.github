@@ -19,9 +19,9 @@
 
 # 👋 Hello PayPal Developers!
 
-Paypal is a payment processing product that helps you process payments for your mobile and web applications. We provide a fast and easy way to handle online payments, whether it's for a digital media property or an online merchant of any kind in over 100 countries.
+PayPal is a payment processing product that helps you process payments for your mobile and web applications. We provide a fast and easy way to handle online payments, whether it's for a digital media property or an online merchant of any kind in over 100 countries.
 
-At PayPal, we support different technologies trough our SDKs and our REST  & GraphQL API endpoints.
+At PayPal, we support different technologies through our SDKs and our REST & GraphQL API endpoints.
 
 # 🖥️ Sample Apps
 
