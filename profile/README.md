@@ -13,6 +13,8 @@
   <a href="https://github.com/paypaldev" target="_blank">Code Samples</a>
     <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
   <a href="https://dev.to/paypaldeveloper" target="_blank">Blog</a>
+   <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
+  <a href="[https://dev.to/paypaldeveloper](https://dev.to/paypaldeveloper/developer-updates-march-55lb)" target="_blank">Developer Updates</a>
   <br />
   <hr />
 </div>
