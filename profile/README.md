@@ -1,4 +1,4 @@
-![PayPal Developer Cover](paypal-developers.svg)
+<img src="../paypal-developers.svg" width="100" alt="PayPal Developers logo" />
 
 <div align="center">
   <a href="https://twitter.com/paypaldev" target="_blank">Twitter</a>
