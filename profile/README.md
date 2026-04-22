@@ -1,4 +1,4 @@
-![PayPal Developer Cover](https://github.com/paypaldev/.github/blob/main/PayPal-Logo-RGB-Black.png)
+![PayPal Developer Cover](paypal-developers.svg)
 
 <div align="center">
   <a href="https://twitter.com/paypaldev" target="_blank">Twitter</a>
