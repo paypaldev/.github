@@ -10,11 +10,9 @@
     <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
   <a href="https://developer.paypal.com/home" target="_blank">Docs</a>
     <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
-  <a href="https://github.com/paypaldev" target="_blank">Code Samples</a>
+  <a href="https://github.com/paypal-examples" target="_blank">Code Samples</a>
     <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
-  <a href="https://dev.to/paypaldeveloper" target="_blank">Blog</a>
-   <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
-  <a href="https://dev.to/paypaldeveloper/developer-updates-april-edition-26kb" target="_blank">Developer Updates</a>
+  <a href="https://www.youtube.com/@paypaldev" target="_blank">YouTube</a>
   <br />
   <hr />
 </div>
