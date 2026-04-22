@@ -1,9 +1,6 @@
 ![PayPal Developer Cover](https://github.com/paypaldev/.github/blob/main/PayPal-Logo-RGB-Black.png)
+
 <div align="center">
-  <a href="https://twitter.com/paypaldev" target="_blank">
-    <img alt="Twitter: PayPal Developer" src="https://img.shields.io/twitter/follow/paypaldev?style=social" />
-  </a>
-  <br />
   <a href="https://twitter.com/paypaldev" target="_blank">Twitter</a>
     <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
   <a href="https://www.paypal.com/us/home" target="_blank">PayPal</a>
@@ -26,7 +23,6 @@ At PayPal, we support different technologies through our SDKs and our REST & Gra
 # 🖥️ Sample Apps
 
 - The PayPal SDKs can be found in the [PayPal GitHub](https://github.com/paypal) organization.
-
 - Sample applications can be found here, in the [PayPal Developer GitHub](https://github.com/paypaldev) organization.
 
 # 🤠 Developer Community
@@ -34,7 +30,6 @@ At PayPal, we support different technologies through our SDKs and our REST & Gra
 Join our developoer community and stay up to date with the latest news from the PayPal team!
 
 - [Follow us on Twitter](https://twitter.com/paypaldev).
-- [PayPal Blog](https://dev.to/paypaldeveloper).
 - [Subscribe to the YouTube Channel](https://www.youtube.com/channel/UCvNxReTAQudFN4RQth9r_6A/videos).
 
 # 💼 Careers (We are hiring!)
