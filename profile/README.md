@@ -49,7 +49,7 @@ If you are new to PayPal integrations, start small and iterate:
 ## GitHub Orgs by PayPal
 
 1. Explore official SDKs in the [PayPal GitHub organization](https://github.com/paypal).
-2. Browse hands-on repos in this [PayPal Developers organization](https://github.com/paypaldev).
+2. Browse hands-on repos in this [PayPal Developer Community organization](https://github.com/paypaldev-community).
 3. Check out sample apps in the [PayPal Examples organization](https://github.com/paypal-examples).
 4. Read guides and API references in the [PayPal Developer Docs](https://developer.paypal.com/home).
 5. Build your own variation and share with us on socials `@paypaldev` what you build and learn.
