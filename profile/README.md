@@ -1,44 +1,66 @@
-![PayPal Developer Cover](https://github.com/paypaldev/.github/blob/main/PayPal-Logo-RGB-Black.png)
 <div align="center">
-  <a href="https://twitter.com/paypaldev" target="_blank">
-    <img alt="Twitter: PayPal Developer" src="https://img.shields.io/twitter/follow/paypaldev?style=social" />
-  </a>
-  <br />
   <a href="https://twitter.com/paypaldev" target="_blank">Twitter</a>
     <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
   <a href="https://www.paypal.com/us/home" target="_blank">PayPal</a>
     <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
   <a href="https://developer.paypal.com/home" target="_blank">Docs</a>
     <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
-  <a href="https://github.com/paypaldev" target="_blank">Code Samples</a>
+  <a href="https://github.com/paypal-examples" target="_blank">Code Samples</a>
     <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
-  <a href="https://dev.to/paypaldeveloper" target="_blank">Blog</a>
-   <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
-  <a href="https://dev.to/paypaldeveloper/developer-updates-april-edition-26kb" target="_blank">Developer Updates</a>
+  <a href="https://www.youtube.com/@paypaldev" target="_blank">YouTube</a>
   <br />
   <hr />
 </div>
 
 # 👋 Hello PayPal Developers!
 
-PayPal is a payment processing product that helps you process payments for your mobile and web applications. We provide a fast and easy way to handle online payments, whether it's for a digital media property or an online merchant of any kind in over 100 countries.
+Build, ship and learn with PayPal.
 
-At PayPal, we support different technologies through our SDKs and our REST & GraphQL API endpoints.
+This GitHub Org is for developers, builders and architects who like hands-on code, fast iteration, practical tutorials and clear best practices.
 
-# 🖥️ Sample Apps
+## What you will find here
 
-- The PayPal SDKs can be found in the [PayPal GitHub](https://github.com/paypal) organization.
+- **Talk Repos:** Session code from conferences, meetups and workshops.
+- **Hackathon Kits:** Quick-start templates and challenge-ready foundations.
+- **Developer Templates:** Focused examples for common PayPal integration patterns.
+- **Builder Patterns:** Reusable approaches you can adapt across projects.
+- **Architecture Guidance:** Best-practice patterns for resilient, maintainable integrations.
 
-- Sample applications can be found here, in the [PayPal Developer GitHub](https://github.com/paypaldev) organization.
+Think of this space as a build lab: clone a repo, run it, break it, remix it and ship your own version.
 
-# 🤠 Developer Community
+## Who is this for
 
-Join our developoer community and stay up to date with the latest news from the PayPal team!
+Our repos are designed to be tutorial-friendly, with clear setup steps and focused code paths so you can understand the "why" behind the integration. Not just copy and paste.
 
-- [Follow us on Twitter](https://twitter.com/paypaldev).
-- [PayPal Blog](https://dev.to/paypaldeveloper).
-- [Subscribe to the YouTube Channel](https://www.youtube.com/channel/UCvNxReTAQudFN4RQth9r_6A/videos).
+If your focus is **architecture**, you will also find guidance around scalable integration patterns, reliability and implementation best practices.
 
-# 💼 Careers (We are hiring!)
+If your objective is **building**, whether you are hacking on a weekend prototype, preparing for a hackathon demo, or creating a real product, our repos are meant to help you move fast.
 
-We believe now is the time to reimagine money and democratize financial services, so that managing and moving money is safe and accessible for everyone. Want to learn more? Visit [PayPal Careers](https://careers.pypl.com/home/) to learn more.
+## Learn by Building
+
+If you are new to PayPal integrations, start small and iterate:
+
+1. Pick a template that matches your use case.
+2. Run it locally and verify a full payment flow.
+3. Swap in your own product and pricing logic.
+4. Add webhooks, error handling, and environment config.
+5. Deploy and keep improving.
+
+## GitHub Orgs by PayPal
+
+1. Explore official SDKs in the [PayPal GitHub organization](https://github.com/paypal).
+2. Browse hands-on repos in this [PayPal Developer Community organization](https://github.com/paypaldev-community).
+3. Check out sample apps in the [PayPal Examples organization](https://github.com/paypal-examples).
+4. Read guides and API references in the [PayPal Developer Docs](https://developer.paypal.com/home).
+5. Build your own variation and share with us on socials `@paypaldev` what you build and learn.
+
+# Developer Community
+
+Stay current with all things PayPal Developer:
+
+- [Follow @paypaldev on X/Twitter](https://twitter.com/paypaldev)
+- [Subscribe on YouTube](https://www.youtube.com/@paypaldev)
+
+# Careers
+
+Come and work with us! Learn more at [PayPal Careers](https://careers.pypl.com/home/).
