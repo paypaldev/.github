@@ -60,6 +60,7 @@ Stay current with all things PayPal Developer:
 
 - [Follow @paypaldev on X/Twitter](https://twitter.com/paypaldev)
 - [Subscribe on YouTube](https://www.youtube.com/@paypaldev)
+- [Join the conversation in Discord](https://discord.com/invite/sJ2G6DyvSK)
 
 # Careers
 
