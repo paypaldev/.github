@@ -12,6 +12,17 @@
   <hr />
 </div>
 
+> [!TIP]
+> **PayPal AI Hackathon**
+> 
+> Win part of $69,750 in total prizes
+> 
+> Build What's Next with PayPal and AI is a global online hackathon inviting developers, designers, founders, students, and builders to create something new using PayPal and AI.
+> 
+> There are no prescribed problem statements and no set of tracks. Build an agent, an app, an automation, a new payment experience, a business tool, a social product, or something we haven't thought of yet.
+> 
+> https://paypalaihackathon.devpost.com
+
 # 👋 Hello PayPal Developers!
 
 Build, ship and learn with PayPal.
